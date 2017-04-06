@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>35</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visorapp3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/transparent/</ImageTemplate>
+            <ImageTemplateName>Transparent</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#000</TemplateColor>
+            <TemplateFont>Anton</TemplateFont>
+            <TemplateName>transparent</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v1.jpg</url>
+                <title>Personas con sobredosis de drogas</title>
+                <filesize>116226</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v2.jpg</url>
+                <title>carros con sonido exageradamente alto</title>
+                <filesize>34852</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v3.jpg</url>
+                <title>Personas orinando en la via publica</title>
+                <filesize>20622</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v5.jpg</url>
+                <title>El anuncio piblicitario de algunas marcas</title>
+                <filesize>163183</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v6.jpg</url>
+                <title>graffitis ofencibos </title>
+                <filesize>137570</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v7.png</url>
+                <title>montoneras de basura</title>
+                <filesize>713349</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v9.jpg</url>
+                <title>La quema de pasto</title>
+                <filesize>20687</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v10.jpg</url>
+                <title>Eses fecales de perros</title>
+                <filesize>43434</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v12.JPG</url>
+                <title>Cadaveres de animales </title>
+                <filesize>5832630</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/parcial2/aplicaciones/app3/imagenes/v13.jpg</url>
+                <title>quema de basura</title>
+                <filesize>282524</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
